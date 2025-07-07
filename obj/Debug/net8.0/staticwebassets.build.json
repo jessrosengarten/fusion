@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SXOBF6tB9ayTWGct9c28R3FTyuJ3+XztwdF5m0k0Ohc=",
+  "Source": "TicketStatusAPI",
+  "BasePath": "_content/TicketStatusAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
