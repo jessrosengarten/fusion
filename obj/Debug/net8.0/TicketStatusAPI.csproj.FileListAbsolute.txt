@@ -162,3 +162,8 @@ C:\Users\Jess\source\repos\TicketStatusAPI\obj\Debug\net8.0\refint\TicketStatusA
 C:\Users\Jess\source\repos\TicketStatusAPI\obj\Debug\net8.0\TicketStatusAPI.pdb
 C:\Users\Jess\source\repos\TicketStatusAPI\obj\Debug\net8.0\TicketStatusAPI.genruntimeconfig.cache
 C:\Users\Jess\source\repos\TicketStatusAPI\obj\Debug\net8.0\ref\TicketStatusAPI.dll
+C:\Users\Jess\source\repos\TicketStatusAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jess\source\repos\TicketStatusAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jess\source\repos\TicketStatusAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jess\source\repos\TicketStatusAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jess\source\repos\TicketStatusAPI\obj\Debug\net8.0\TicketStatusAPI.MvcApplicationPartsAssemblyInfo.cs
